@@ -1,0 +1,10 @@
+{
+  "name": "Remix: IDG Gateway",
+  "description": "A modern Iraqi customs, border control, trade logistics, audit, taxation, AI assistant, and government management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "ai-assistant",
+    "dashboard",
+    "analytics"
+  ]
+}
